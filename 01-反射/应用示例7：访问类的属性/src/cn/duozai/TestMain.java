@@ -4,8 +4,6 @@ import java.lang.reflect.Field;
 
 /**
  * 测试类
- *
- * @author 多仔ヾ
  */
 public class TestMain {
 

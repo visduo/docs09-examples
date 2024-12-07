@@ -4,8 +4,6 @@ import java.lang.reflect.Modifier;
 
 /**
  * 测试类
- *
- * @author 多仔ヾ
  */
 public class TestMain {
 
