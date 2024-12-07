@@ -9,6 +9,8 @@ import java.io.Serializable;
  */
 public class Person implements Serializable {
 
+	// 用户类继承基类BaseClass，并且实现Serializable接口
+
 	// 成员变量
 	private String name;    // 私有属性-姓名
 	static final int age = 30;  // 静态属性-年龄
