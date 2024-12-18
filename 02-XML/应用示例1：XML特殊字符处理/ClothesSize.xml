@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<clothesSize>
+    <size range="height&lt;165">S</size>
+    <size range="165&lt;height&lt;170">M</size>
+    <size range="110&lt;height&lt;175">L</size>
+    <size range="175&lt;height&lt;180">XL</size>
+    <size range="180&lt;height&lt;185">XXL</size>
+</clothesSize>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><PhoneInfo>
+    <Brand name="HUAWEI">
+        <type name="Mate X5">
+            <price>14999.00</price>
+        </type>
+        <type name="Mate 60">
+            <price>8999.00</price>
+        </type>
+    </Brand>
+    
+<Brand name="小米"><type name="Mi 15"><price>4999</price></type></Brand></PhoneInfo>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PhoneInfo>
+    <Brand name="华为">
+        <type name="Mate X5">
+            <price>14999.00</price>
+        </type>
+        <type name="Mate 60">
+            <price>8999.00</price>
+        </type>
+    </Brand>
+    <Brand name="苹果">
+        <type name="iPhone 15">
+            <price>9999.00</price>
+        </type>
+        <type name="iPhone 14">
+            <price>7999.00</price>
+        </type>
+    </Brand>
+</PhoneInfo>
