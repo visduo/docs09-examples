@@ -1,3 +1,3 @@
-Java 框架基础技术应用示例
+应用示例 - Java 框架基础技术
 
-笔记：https://docs-share.07tb.com/d/20240727224516-j1xhsqq
+微信公众号：多仔
